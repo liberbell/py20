@@ -21,3 +21,6 @@ y_value = 25
 
 if x_value < y_value:
     print("Value of x is less than the value of y")
+
+if x_value > y_value:
+    print("Value of x is greater than the value of y")
