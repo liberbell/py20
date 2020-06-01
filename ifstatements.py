@@ -38,3 +38,6 @@ if "python world" in my_string:
 
 if "Python World" in my_string:
     print("yes, `Python World` is in my_string")
+
+list_student = ["Ayden", "Gavin", "Ian", "Jose", "Jane"]
+print(list_student)
