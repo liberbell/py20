@@ -29,3 +29,6 @@ my_string = "Hello python world."
 
 if "python" in my_string:
     print("yes, `Python` is in my_string")
+
+if "pythonworld" in my_string:
+    print("yes, `Python world` is in my_string")
