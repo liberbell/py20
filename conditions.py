@@ -14,4 +14,5 @@ print(x == "Python")
 print(x != "Python")
 
 print(2 + 3 < 6)
-print(4 + 3 < 6)
+print((4 + 3) < 6)
+print(8 + 5 == 10 + 3)
