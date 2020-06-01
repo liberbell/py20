@@ -12,3 +12,6 @@ if "Ian" in student_score:
 
 if 10 < 15:
     print("10 is less than 15.")
+
+if 46 > 40 + 5:
+    print("46 is greater than 45.")
