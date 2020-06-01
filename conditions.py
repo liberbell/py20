@@ -7,3 +7,6 @@ print(20 == "hello")
 print("Hello" == "Hello")
 
 print(20 != 20)
+
+x = "Hello"
+print(x == "Hello")
