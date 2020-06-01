@@ -24,3 +24,8 @@ if x_value < y_value:
 
 if x_value > y_value:
     print("Value of x is greater than the value of y")
+
+my_string = "Hello python world."
+
+if "python" in my_string:
+    print("yes, `Python` is in my_string")
