@@ -16,3 +16,6 @@ print(x != "Python")
 print(2 + 3 < 6)
 print((4 + 3) < 6)
 print(8 + 5 == 10 + 3)
+
+print(2 * 5 <= 10)
+print(40 % 3 == 0)
