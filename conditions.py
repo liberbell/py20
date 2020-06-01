@@ -4,3 +4,6 @@ print(20 == "Hello")
 
 # print(20 = "Hello")
 print(20 == "hello")
+print("Hello" == "Hello")
+
+print(20 != 20)
