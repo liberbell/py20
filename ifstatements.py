@@ -31,4 +31,7 @@ if "python" in my_string:
     print("yes, `Python` is in my_string")
 
 if "pythonworld" in my_string:
+    print("yes, `Pythonworld` is in my_string")
+
+if "python world" in my_string:
     print("yes, `Python world` is in my_string")
