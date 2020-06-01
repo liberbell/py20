@@ -9,3 +9,6 @@ print(student_score)
 
 if "Ian" in student_score:
     print("Ian is in the student_score dictional")
+
+if 10 < 15:
+    print("10 is less than 15.")
