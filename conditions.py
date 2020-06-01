@@ -29,3 +29,5 @@ print(10 == 10 and 10 == True)
 print((10 == 10) == True)
 
 print(5 > 3 or 4 < 2)
+print(5 > 3 and 4 < 2)
+print(not(5 > 3 and 4 < 2))
