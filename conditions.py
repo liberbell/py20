@@ -10,3 +10,8 @@ print(20 != 20)
 
 x = "Hello"
 print(x == "Hello")
+print(x == "Python")
+print(x != "Python")
+
+print(2 + 3 < 6)
+print(4 + 3 < 6)
