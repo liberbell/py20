@@ -15,3 +15,9 @@ if 10 < 15:
 
 if 46 > 40 + 5:
     print("46 is greater than 45.")
+
+x_value = 65
+y_value = 25
+
+if x_value < y_value:
+    print("Value of x is less than the value of y")
