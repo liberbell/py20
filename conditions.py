@@ -23,3 +23,7 @@ print(40 % 2 == 0)
 
 print(5 > 3 and 4 < 6)
 print(5 > 3 and 4 > 6)
+
+print(10 == 10 == True)
+print(10 == 10 and 10 == True)
+print((10 == 10) == True)
