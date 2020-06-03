@@ -80,3 +80,7 @@ print(z_value)
 
 if x_value > y_value and y_value < z_value:
     print("Both condition are True.")
+
+print(a, b)
+if a > b or b < a:
+    print("At least one of the above condition is true.")
