@@ -56,3 +56,6 @@ if "Alexa" in tuple_techers:
 
 if "Ian" in student_score:
     print("Ian is in the student_score dictionary.")
+
+if "Jane" in student_score:
+    print("Jane`s score : ", student_score["Jane"])
