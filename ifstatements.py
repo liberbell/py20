@@ -41,3 +41,6 @@ if "Python World" in my_string:
 
 list_student = ["Ayden", "Gavin", "Ian", "Jose", "Jane"]
 print(list_student)
+
+if "Jose" in list_student:
+    print("Jose is a student")
