@@ -68,3 +68,6 @@ b = 35
 
 if a > b and b < a:
     print("a is greater than b")
+
+if a > b and b > a:
+    print("a is greater than b")
