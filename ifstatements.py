@@ -53,3 +53,6 @@ print(tuple_techers)
 
 if "Alexa" in tuple_techers:
     print("Alexa is a teacher.")
+
+if "Ian" in student_score:
+    print("Ian is in the student_score dictionary.")
