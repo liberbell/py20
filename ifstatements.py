@@ -71,3 +71,6 @@ if a > b and b < a:
 
 if a > b and b > a:
     print("a is greater than b")
+
+print(x_value)
+print(y_value)
