@@ -59,3 +59,6 @@ if "Ian" in student_score:
 
 if "Jane" in student_score:
     print("Jane`s score : ", student_score["Jane"])
+
+if "Ayden" in student_score:
+    print("Ayden`s score : ", student_score["Ayden"])
