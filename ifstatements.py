@@ -44,3 +44,6 @@ print(list_student)
 
 if "Jose" in list_student:
     print("Jose is a student")
+
+if "Eva" in list_student:
+    print("Eva is a student")
