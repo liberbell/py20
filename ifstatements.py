@@ -62,3 +62,9 @@ if "Jane" in student_score:
 
 if "Ayden" in student_score:
     print("Ayden`s score : ", student_score["Ayden"])
+
+a = 60
+b = 35
+
+if a > b and b < a:
+    print("a is greater than b")
