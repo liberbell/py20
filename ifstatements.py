@@ -77,3 +77,6 @@ print(y_value)
 
 z_value = x_value + y_value
 print(z_value)
+
+if x_value > y_value and y_value < z_value:
+    print("Both condition are True.")
