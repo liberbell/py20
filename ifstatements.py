@@ -74,3 +74,6 @@ if a > b and b > a:
 
 print(x_value)
 print(y_value)
+
+z_value = x_value + y_value
+print(z_value)
