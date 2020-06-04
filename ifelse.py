@@ -56,3 +56,4 @@ else 15 < 20:
 
 else:
     print("Both are equal.")
+    print("else block activated.")
