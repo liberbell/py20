@@ -45,3 +45,14 @@ print("Number before expression: ", num)
 
 result = num /5 if num < 50 else num *5
 print("Number after expression: ", result)
+
+if 15 > 20:
+    print("15 is greater than 20.")
+    print("if block activated.")
+
+else 15 < 20:
+    print("15 is less than 20.")
+    print("else blcok activated.")
+
+else:
+    print("Both are equal.")
