@@ -75,5 +75,5 @@ if bike_price < 6000:
     print("It`s a cheap bike.")
 elif bike_price >= 6000 and bike_price < 10000:
     print("It`s a moderately priced bike.")
-else:
+elif bike_price >= 10000 and bike_price < 15000:
     print("It`s a somewhat expensive bike.")
