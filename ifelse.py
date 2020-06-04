@@ -24,8 +24,9 @@ if bike_price <= 8000:
 else:
     print("It`s an expensive bike.")
 
-num = 50
+num = 19
 print("Num before expression: ", num)
 
 num = num - 20 if num > 20 else num + 20
 print("Num after expression: ", num)
+
