@@ -69,3 +69,11 @@ elif b == a:
 else:
     print("b is less than a.")
     print("else block activated.")
+
+bike_price = 20000
+if bike_price < 6000:
+    print("It`s a cheap bike.")
+elif bike_price >= 6000 and bike_price < 10000:
+    print("It`s a moderately priced bike.")
+else:
+    print("It`s a somewhat expensive bike.")
