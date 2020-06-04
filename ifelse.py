@@ -13,5 +13,13 @@ if bike_price <= 8000:
     print("If block activated.")
 
 else:
-    print("It`s a expensive bike.")
+    print("It`s an expensive bike.")
     print("Else block activated.")
+
+bike_price = 9000
+
+if bike_price <= 8000:
+    print("It`s a cheap bike.")
+
+    else:
+        print("It`s an expensive bike.")
