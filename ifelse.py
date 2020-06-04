@@ -52,8 +52,17 @@ if 15 > 20:
 
 elif 15 < 20:
     print("15 is less than 20.")
-    print("else blcok activated.")
+    print("elif blcok activated.")
 
 else:
     print("Both are equal.")
     print("else block activated.")
+
+a = 45
+b = 45
+if b > a:
+    print("b is greater than a.")
+    print("if block activated.")
+elif b < a:
+    print("b is less than a.")
+    print("elif block activated.")
