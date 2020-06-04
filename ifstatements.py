@@ -97,3 +97,9 @@ if bike_price > 1000 or bike_is_electric:
 
 if not bike_is_electric:
     print("It`s a human-power bike.")
+
+x = 45
+y = 78
+
+if not (x < y):
+    print("x is not less than y")
