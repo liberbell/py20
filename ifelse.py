@@ -50,7 +50,7 @@ if 15 > 20:
     print("15 is greater than 20.")
     print("if block activated.")
 
-else 15 < 20:
+elif 15 < 20:
     print("15 is less than 20.")
     print("else blcok activated.")
 
