@@ -63,9 +63,9 @@ b = 45
 if b > a:
     print("b is greater than a.")
     print("if block activated.")
-elif b < a:
-    print("b is less than a.")
+elif b == a:
+    print("a and b are equal.")
     print("elif block activated.")
 else:
-    print("Both are equal.")
+    print("b is less than a.")
     print("else block activated.")
