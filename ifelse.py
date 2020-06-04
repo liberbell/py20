@@ -39,3 +39,9 @@ else:
     num = num + 20
 
 print("Num after expression: ", num)
+
+num = 100
+print("Number before expression: ", num)
+
+result = num /5 if num < 50 else num *5
+print("Number after expression: ", result)
