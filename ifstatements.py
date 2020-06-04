@@ -90,3 +90,7 @@ bike_is_electric = False
 
 if bike_price > 500 or bike_is_electric:
     print("AT least one of the above condition is true.")
+
+
+if bike_price > 1000 or bike_is_electric:
+    print("AT least one of the above condition is true.")
