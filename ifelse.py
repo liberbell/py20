@@ -66,3 +66,6 @@ if b > a:
 elif b < a:
     print("b is less than a.")
     print("elif block activated.")
+else:
+    print("Both are equal.")
+    print("else block activated.")
