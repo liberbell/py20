@@ -21,5 +21,5 @@ bike_price = 9000
 if bike_price <= 8000:
     print("It`s a cheap bike.")
 
-    else:
-        print("It`s an expensive bike.")
+else:
+    print("It`s an expensive bike.")
