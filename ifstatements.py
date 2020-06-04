@@ -103,3 +103,6 @@ y = 78
 
 if not (x < y):
     print("x is not less than y")
+
+if not (x > y):
+    print("x is not greater than y")
