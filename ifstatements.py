@@ -87,3 +87,6 @@ if a > b or b < a:
 
 bike_price = 716
 bike_is_electric = False
+
+if bike_price > 500 or bike_is_electric:
+    print("AT least one of the above condition is true.")
