@@ -103,3 +103,12 @@ if x < y:
         print("The first condition is True, the second condition is False.")
 else:
     print("The first conditon is False.")
+
+age = int(input("Enter your age: "))
+
+if age >= 15:
+    if age > 20:
+        print("You are too old for this camping trip.")
+
+    else:
+        print("You are of the right age for this camping trip.")
