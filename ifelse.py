@@ -118,3 +118,13 @@ else:
 total = int(input("What is the total amount of your online shopping?"))
 country = input("USA or Canada?")
 
+if country == "USA":
+    if total <= 50:
+        print("Shipping cost is $9.00.")
+    elif total <=100:
+        print("Shipping cost is $6.00.")
+    else:
+        print("Shipping is FREE.")
+if country == "Canada":
+    if total <= 50:
+        print("Shipping cost is $12.00.")
