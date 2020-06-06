@@ -88,3 +88,15 @@ elif bike_price >= 10000:
     print("It`s a somewhat expensive bike.")
 elif bike_price >= 20000:
     print("It`s a very expensive bike.")
+
+x = 25
+y = 35
+z = 45
+if x < y:
+    print("The first condition is True")
+
+    if x < z:
+        print("Both condition is True")
+
+    else:
+        print("The first condition is True, the second condition is False.")
