@@ -92,6 +92,7 @@ elif bike_price >= 20000:
 x = 25
 y = 35
 z = 45
+x = 55
 if x < y:
     print("The first condition is True")
 
@@ -100,3 +101,5 @@ if x < y:
 
     else:
         print("The first condition is True, the second condition is False.")
+else:
+    print("The first conditon is False.")
