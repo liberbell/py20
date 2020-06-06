@@ -112,3 +112,5 @@ if age >= 15:
 
     else:
         print("You are of the right age for this camping trip.")
+else:
+    print("You are too young for this camping trip.")
