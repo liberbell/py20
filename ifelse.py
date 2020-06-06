@@ -128,3 +128,9 @@ if country == "USA":
 if country == "Canada":
     if total <= 50:
         print("Shipping cost is $12.00.")
+    elif total <= 100:
+        print("Shipping cost is $15.00.")
+    else:
+        print("Shippint is FREE.")
+else:
+    print("Check your country.")
