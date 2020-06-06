@@ -114,3 +114,7 @@ if age >= 15:
         print("You are of the right age for this camping trip.")
 else:
     print("You are too young for this camping trip.")
+
+total = int(input("What is the total amount of your online shopping?"))
+country = input("USA or Canada?")
+
