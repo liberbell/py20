@@ -104,16 +104,16 @@ if x < y:
 else:
     print("The first conditon is False.")
 
-age = int(input("Enter your age: "))
+# age = int(input("Enter your age: "))
 
-if age >= 15:
-    if age > 20:
-        print("You are too old for this camping trip.")
+# if age >= 15:
+#     if age > 20:
+#         print("You are too old for this camping trip.")
 
-    else:
-        print("You are of the right age for this camping trip.")
-else:
-    print("You are too young for this camping trip.")
+#     else:
+#         print("You are of the right age for this camping trip.")
+# else:
+#     print("You are too young for this camping trip.")
 
 total = int(input("What is the total amount of your online shopping?"))
 country = input("USA or Canada?")
