@@ -68,3 +68,6 @@ else:
     print("Cora`s annual income is %s."%salary_details["Cora"])
 
 print(salary_details)
+
+age_details = {"Lisa": 25, "Jason": 30, "Cooper": 29, "Elias": 22}
+print(age_details)
