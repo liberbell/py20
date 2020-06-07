@@ -66,3 +66,5 @@ if "Cora" in salary_details:
 else:
     salary_details["Cora"] = 31000
     print("Cora`s annual income is %s."%salary_details["Cora"])
+
+print(salary_details)
