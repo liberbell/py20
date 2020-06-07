@@ -19,4 +19,10 @@ else:
 
 if fruit_list[4] == "avocado":
     print("Yes, avocado is at the fourth index.")
-    print("Replacing avocado with strawberry at the forth index.")
+    print("Replacing avocado with strawberry at the fourth index.")
+
+    fruit_list[4] = "strawberry"
+    print(fruit_list)
+
+else:
+    print("avocado is not at the fourth index.")
