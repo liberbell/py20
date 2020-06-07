@@ -78,4 +78,8 @@ if age_details["Lisa"] < age_details["Json"]:
     if age_details["Json"] > age_details["Cooper"]:
         print("Json is older than Cooper.")
 
-        if age_details["Cooper"] < age_details["Sarah"]
+        if age_details["Cooper"] < age_details["Sarah"]:
+            print("Cooper is younger than Sarah.")
+
+        elif age_details["Cooper"] > age_details["Sarah"]:
+            print("Json is the oldest person in the given dictionary.")
