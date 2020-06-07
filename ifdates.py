@@ -60,3 +60,9 @@ if "Lisa" in salary_details:
     print("We have the salary details for Lisa.")
 else:
     print("We don`t have the salary details for Lisa.")
+
+if "Cora" in salary_details:
+    print("We have the salary detail for Cora.")
+else:
+    salary_details["Cora"] = 31000
+    print("Cora`s annual income is %s."%salary_details["Cora"])
