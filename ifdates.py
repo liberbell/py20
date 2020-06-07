@@ -16,3 +16,7 @@ if fruit_list[1] == "orange":
     print("True")
 else:
     print("False")
+
+if fruit_list[4] == "avocado":
+    print("Yes, avocado is at the fourth index.")
+    print("Replacing avocado with strawberry at the forth index.")
