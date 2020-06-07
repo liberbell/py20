@@ -28,3 +28,13 @@ else:
     print("avocado is not at the fourth index.")
 
 car_tuple = ["Toyota Camry", "Honda Accord", "Honda Civic", "Toyota Corolla"]
+
+if "Honda Accord" in car_tuple:
+    print("Honda Accord is present in our car tuple.")
+else:
+    print("Honda Accord is not present in our car tuple.")
+
+if "Ducati monster" in car_tuple:
+    print("Ducati Monster is a car.")
+else:
+    print("ducati Monster is not a car.")
