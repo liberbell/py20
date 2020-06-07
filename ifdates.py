@@ -55,3 +55,8 @@ salary_details = {"Lisa": 25000,
                   "Elias": 23000,
                   "Jordan": 77000}
 print(salary_details)
+
+if "Lisa" in salary_details:
+    print("We have the salary details for Lisa.")
+else:
+    print("We don`t have the salary details for Lisa.")
