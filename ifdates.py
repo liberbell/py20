@@ -26,3 +26,5 @@ if fruit_list[4] == "avocado":
 
 else:
     print("avocado is not at the fourth index.")
+
+car_tuple = ["Toyota Camry", "Honda Accord", "Honda Civic", "Toyota Corolla"]
