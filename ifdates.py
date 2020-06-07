@@ -48,3 +48,9 @@ if "Ducati Monster" in car_tuple or "Honda Accord" in car_tuple:
     print("At least one of Ducati Monster and Honda Accord is a car.")
 else:
     print("Neither Ducati Monster nor Honda Accord is a car.")
+
+salary_details = {"Lisa": 25000,
+                  "Jason": 45000,
+                  "Cooper": 35000,
+                  "Elias": 23000,
+                  "Jordan": 77000}
