@@ -11,3 +11,8 @@ elif "orange" in fruit_list:
     print("orange is in the fruit list.")
 else:
     print("Both strawberry and orange are not in the fruit list.")
+
+if fruit_list[1] == "orange":
+    print("True")
+else:
+    print("False")
