@@ -4,3 +4,10 @@ if "grape" in fruit_list:
 
 else:
     print("No, grape is not in the fruit list.")
+
+if "strawberry" in fruit_list:
+    print("strawberry is in the fruit list.")
+elif "orange" in fruit_list:
+    print("orange is in the fruit list.")
+else:
+    print("Both strawberry and orange are not in the fruit list.")
