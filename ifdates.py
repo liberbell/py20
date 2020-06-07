@@ -54,3 +54,4 @@ salary_details = {"Lisa": 25000,
                   "Cooper": 35000,
                   "Elias": 23000,
                   "Jordan": 77000}
+print(salary_details)
