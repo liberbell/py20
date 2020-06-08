@@ -95,4 +95,10 @@ max_sal = max(details[2])
 
 if (details[2][1] == max_sal):
     if details[1][0] > 30:
-        print(details[0][1], "has the highest")
+        print(details[0][1], "has the highest salary and her age is greater than 30.")
+
+    elif details[1][1] == 30:
+        print(details[0][1], "has the highest salary and she is 30 years old.")
+
+    else:
+        print("Amanda has the highest salary and her age is less than 30.")
