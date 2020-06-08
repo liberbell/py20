@@ -85,3 +85,14 @@ if age_details["Lisa"] < age_details["Jason"]:
             print("Json is the oldest person in the given dictionary.")
 else:
     print("Jason is not the oldest person in the given dictionary.")
+
+details = [["Jane", "Amanda", "Emma"],
+           [35, 40, 50],
+           [20000, 50000, 40000]]
+print(details)
+
+max_sal = max(details[2])
+
+if (details[2][1] == max_sal):
+    if details[1][0] > 30:
+        print(details[0][1], "has the highest")
