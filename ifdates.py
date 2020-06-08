@@ -102,3 +102,6 @@ if (details[2][1] == max_sal):
 
     else:
         print("Amanda has the highest salary and her age is less than 30.")
+
+else:
+    print("Amanda is not highest paid employee.")
