@@ -75,7 +75,7 @@ print(age_details)
 if age_details["Lisa"] < age_details["Jason"]:
     print("Json is older than Lisa.")
 
-    if age_details["Json"] > age_details["Cooper"]:
+    if age_details["Jason"] > age_details["Cooper"]:
         print("Json is older than Cooper.")
 
         if age_details["Cooper"] < age_details["Sarah"]:
