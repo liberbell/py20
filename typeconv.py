@@ -7,3 +7,4 @@ print(type(a))
 
 my_float = float(a)
 print(my_float)
+print(type(my_float))
