@@ -29,3 +29,9 @@ print("Data type of new_num: ", type(new_num))
 my_float = 66.999999
 my_num = int(my_float)
 print(my_num)
+
+a = 125.0
+b = 390.8
+
+print(int(a))
+print(int(b))
