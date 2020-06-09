@@ -39,3 +39,6 @@ print(int('12'))
 
 a = "66"
 print(type(a))
+my_int = int(a)
+print(my_int)
+print(type(my_int))
