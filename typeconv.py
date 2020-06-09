@@ -22,3 +22,5 @@ num_float = 23.4
 print("Data type of num_int: ", type(num_int))
 print("Data type of num_float: ", type(num_float))
 
+new_num = num_int + num_float
+print(new_num)
