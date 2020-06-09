@@ -36,3 +36,6 @@ b = 390.8
 print(int(a))
 print(int(b))
 print(int('12'))
+
+a = "66"
+print(type(a))
