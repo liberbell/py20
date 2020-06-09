@@ -42,3 +42,8 @@ print(type(a))
 my_int = int(a)
 print(my_int)
 print(type(my_int))
+
+num_int = 123
+num_str = "456"
+
+# print(num_int + num_str)
