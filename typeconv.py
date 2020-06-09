@@ -13,5 +13,5 @@ print(int(390.8))
 
 b = 66.6
 my_int = int(b)
-print(b)
-print(type(b))
+print(my_int)
+print(type(my_int))
