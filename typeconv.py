@@ -35,3 +35,4 @@ b = 390.8
 
 print(int(a))
 print(int(b))
+print(int('12'))
