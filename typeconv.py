@@ -15,3 +15,10 @@ b = 66.6
 my_int = int(b)
 print(my_int)
 print(type(my_int))
+
+num_int = 76
+num_float = 23.4
+
+print("Data type of num_int: ", type(num_int))
+print("Data type of num_float: ", type(num_float))
+
