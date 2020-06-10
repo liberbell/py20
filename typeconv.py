@@ -54,3 +54,6 @@ num_str = int(num_str)
 sum_value = num_int + num_str
 print(sum_value)
 print("Type of sum_value:", type(sum_value))
+
+value_str = "five"
+value_int = int(value_str)
