@@ -80,4 +80,4 @@ print("Congraturations, " + user + "! You just wrote " + str(lines) + " lines of
 number = int(input())
 plus_ten = number + 10
 plus_twenty = number + 20
-print("\nIf we add 10 and 20 to this number, we got %s and %s", plus_ten, plus_twenty
+print("\nIf we add 10 and 20 to this number, we got %s and %s", plus_ten, plus_twenty)
