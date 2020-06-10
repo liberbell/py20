@@ -72,7 +72,7 @@ lines = 50
 
 print("Congraturations, " + user + "! You just wrote " + str(lines) + " lines of code.")
 
-number = input()
+number = int(input())
 # plus_ten = number + 10
-print(type(number))
-# print(plus_ten)
+# print(type(number))
+print(plus_ten)
