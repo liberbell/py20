@@ -59,3 +59,6 @@ value_str = "five"
 # value_int = int(value_str)
 
 print(str(12))
+
+my_str = str(num_int)
+print(my_str)
