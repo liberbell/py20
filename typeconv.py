@@ -70,4 +70,8 @@ print("Jhon has " + str(my_float) + " points.")
 user = "Jhon"
 lines = 50
 
-print("Congraturations, " + user + "! You just wrote " + str(lines) + "lines of code.")
+print("Congraturations, " + user + "! You just wrote " + str(lines) + " lines of code.")
+
+number = input()
+plus_ten = number + 10
+print(plus_ten)
