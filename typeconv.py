@@ -75,4 +75,4 @@ print("Congraturations, " + user + "! You just wrote " + str(lines) + " lines of
 number = int(input())
 plus_ten = number + 10
 # print(type(number))
-print("If we add 10 to this number, we got ", plus_ten)
+print("If we add 10 to this number, we got " + str(plus_ten))
