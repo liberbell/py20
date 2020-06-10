@@ -47,3 +47,5 @@ num_int = 123
 num_str = "456"
 
 # print(num_int + num_str)
+print("Type of num_int: ", type(num_int))
+print("Type of num_str: ", type(num_str))
