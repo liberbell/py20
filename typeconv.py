@@ -5,6 +5,7 @@ print(float(66))
 a = 66
 print(type(a))
 
+
 my_float = float(a)
 print(my_float)
 print(type(my_float))
@@ -65,3 +66,8 @@ print(my_str)
 
 my_float = 5524.53
 print("Jhon has " + str(my_float) + " points.")
+
+user = "Jhon"
+lines = 50
+
+print("Congraturations, " + user + "! You just wrote " + str(lines) + "lines of code.")
