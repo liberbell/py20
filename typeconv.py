@@ -56,4 +56,6 @@ print(sum_value)
 print("Type of sum_value:", type(sum_value))
 
 value_str = "five"
-value_int = int(value_str)
+# value_int = int(value_str)
+
+print(str(12))
