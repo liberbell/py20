@@ -62,3 +62,6 @@ print(str(12))
 
 my_str = str(num_int)
 print(my_str)
+
+my_float = 5524.53
+print("Jhon has " + str(my_float) + " points.")
