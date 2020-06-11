@@ -9,3 +9,9 @@ new_code = "60.8"
 
 total_code = float(old_code) + float(new_code)
 print(total_code)
+
+my_float = "4.6"
+my_int = "6"
+
+total = float(my_float) + int(my_int)
+print(total)
