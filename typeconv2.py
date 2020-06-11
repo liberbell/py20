@@ -40,3 +40,7 @@ print(type(value_tup))
 my_list = ["Apple", "Orage", "Mango", "Banana"]
 print(type(my_list))
 print(my_list)
+
+my_tuple = tuple(my_list)
+print(type(my_tuple))
+print(my_tuple)
