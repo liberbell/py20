@@ -15,3 +15,7 @@ my_int = "6"
 
 total = float(my_float) + int(my_int)
 print(total)
+
+value_str = "python world"
+value_list = list(value_str)
+print(value_list)
