@@ -23,3 +23,6 @@ print("Type of value_str is: ", type(value_str))
 print("Type of valeu_list is: ", type(value_list))
 
 list((1, 2, 3, 4, 5))
+
+my_tuple = ["Apple", "Orage", "Mango", "Banana"]
+print(my_tuple)
