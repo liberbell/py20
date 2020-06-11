@@ -44,3 +44,8 @@ print(my_list)
 my_tuple = tuple(my_list)
 print(type(my_tuple))
 print(my_tuple)
+
+age_list = [["William", 50], ["Henry", 60], ["James", 90]]
+age_tuple = tuple(age_list)
+print(type(age_tuple))
+print(age_tuple)
