@@ -27,3 +27,6 @@ list((1, 2, 3, 4, 5))
 my_tuple = ("Apple", "Orage", "Mango", "Banana")
 print(my_tuple)
 print(type(my_tuple))
+
+my_list = list(my_tuple)
+print(my_list)
