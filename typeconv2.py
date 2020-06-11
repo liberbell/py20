@@ -31,3 +31,8 @@ print(type(my_tuple))
 my_list = list(my_tuple)
 print(my_list)
 print(type(my_list))
+
+value_str = "python world"
+value_tup = tuple(value_str)
+print(value_tup)
+print(type(value_tup))
