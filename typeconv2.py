@@ -21,3 +21,5 @@ value_list = list(value_str)
 print(value_list)
 print("Type of value_str is: ", type(value_str))
 print("Type of valeu_list is: ", type(value_list))
+
+list(1, 2, 3, 4, 5)
