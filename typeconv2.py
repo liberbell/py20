@@ -7,5 +7,5 @@ print(remaining_num)
 old_code = "40.3"
 new_code = "60.8"
 
-total_code = old_num + new_code
+total_code = old_code + new_code
 print(total_code)
