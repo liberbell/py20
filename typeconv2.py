@@ -36,3 +36,7 @@ value_str = "python world"
 value_tup = tuple(value_str)
 print(value_tup)
 print(type(value_tup))
+
+my_list = ["Apple", "Orage", "Mango", "Banana"]
+print(type(my_list))
+print(my_list)
