@@ -91,3 +91,5 @@ age_list = [["Willam", 50], ["Joanne", 60], ["Maria", 90]]
 print(age_list)
 age_dict =dict(age_list)
 print(age_dict)
+print("Type of age_list: ", type(age_list))
+print("Type of age_dict: ", type(age_dict))
