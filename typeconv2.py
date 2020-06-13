@@ -93,3 +93,5 @@ age_dict =dict(age_list)
 print(age_dict)
 print("Type of age_list: ", type(age_list))
 print("Type of age_dict: ", type(age_dict))
+
+set("apple")
