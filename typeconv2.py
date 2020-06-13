@@ -53,3 +53,6 @@ print(age_tuple)
 age_tuple = tuple(age_tuple[0])
 print(type(age_tuple))
 print(age_tuple)
+
+print("Type of age_list: ", type(age_list))
+print("Tyep of age_tuple: ", type(age_tuple))
