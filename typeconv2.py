@@ -88,5 +88,6 @@ print(age_tuple3)
 
 age_list = [["Willam", 50], ["Joanne", 60], ["Maria", 90]]
 
-age_dict = dict(age_list)
 print(age_list)
+age_dict =dict(age_list)
+print(age_dict)
