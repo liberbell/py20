@@ -71,4 +71,4 @@ age_tuple = (("Leo", 18),
              ("Aaron", 25),
              ("Easton", 34),
              ("Jordan", 30))
-dict(age_tuple)
+print(dict(age_tuple))
