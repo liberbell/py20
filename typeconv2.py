@@ -73,8 +73,15 @@ age_tuple = (("Leo", 18),
              ("Jordan", 30))
 print(dict(age_tuple))
 
-age_tuple = (("Leo", 18),
+age_tuple2 = (("Leo", 18),
              ("Aaron", 25),
              ("Easton", 34),
              (["Jordan", "John"], 30))
-print(age_tuple)
+print(age_tuple2)
+# print(dict(age_tuple2))
+
+age_tuple3 = (("Leo", 18),
+             ("Aaron", 25),
+             ("Easton", 34),
+             ("Jordan", ["John", 30]))
+print(age_tuple3)
