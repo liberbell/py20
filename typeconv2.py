@@ -85,3 +85,5 @@ age_tuple3 = (("Leo", 18),
              ("Easton", 34),
              ("Jordan", ["John", 30]))
 print(age_tuple3)
+
+age_list = [["Willam", 50], ["Joanne", 60], ["Maria", 90]]
