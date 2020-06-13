@@ -58,3 +58,5 @@ print("Type of age_list: ", type(age_list))
 print("Tyep of age_tuple: ", type(age_tuple))
 
 pet_list = [("Dog", 1), ("Cat", 2), ("Cow", 3), ("Goat", 4)]
+pet_tuple = tuple(pet_list)
+print(pet_tuple)
