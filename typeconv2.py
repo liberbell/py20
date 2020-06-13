@@ -95,3 +95,5 @@ print("Type of age_list: ", type(age_list))
 print("Type of age_dict: ", type(age_dict))
 
 set("apple")
+fruit_tuple = ("Apple", "Orage", "Mango", "Banana", "Banana")
+fruit_set = set(fruit_tuple)
