@@ -25,3 +25,7 @@
 num_1 = int(input("Enter first num: "))
 num_2 = int(input("Enter second num: "))
 Quotient = int(num_1 / num_2)
+print("\nQuotient: ", Quotient)
+
+Remainder = num_1 % num_2
+print("Remainder: ", Remainder)
