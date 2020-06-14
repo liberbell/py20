@@ -117,3 +117,4 @@ print(chr(100))
 print(chr(97))
 
 print(complex(1j))
+print(complex(10))
