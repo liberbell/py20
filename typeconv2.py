@@ -40,7 +40,7 @@ print(type(value_tup))
 my_list = ["Apple", "Orage", "Mango", "Banana"]
 print(type(my_list))
 print(my_list)
-
+5
 my_tuple = tuple(my_list)
 print(type(my_tuple))
 print(my_tuple)
@@ -109,3 +109,4 @@ print(bin(5))
 print(bin(10))
 
 print(int("0b1010", 2))
+print(int("0b1010", 0))
