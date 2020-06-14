@@ -12,3 +12,5 @@ second_num = first_num - second_num
 first_num = first_num - second_num
 
 print("\nFirst num is: ", first_num, "\nSecond num is: ", second_num)
+
+num = int(input("Enter a number: "))
