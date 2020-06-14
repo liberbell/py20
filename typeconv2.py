@@ -99,3 +99,6 @@ fruit_tuple = ("Apple", "Orage", "Mango", "Banana", "Banana")
 fruit_set = set(fruit_tuple)
 print(fruit_set)
 print(fruit_tuple)
+print(type(fruit_set))
+
+print(hex(50))
