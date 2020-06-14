@@ -102,3 +102,6 @@ print(fruit_tuple)
 print(type(fruit_set))
 
 print(hex(50))
+print(hex(60))
+print(oct(50))
+print(oct(9))
