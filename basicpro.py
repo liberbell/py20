@@ -22,10 +22,14 @@
 # total = num + (int(tmp2)) + (int(tmp3))
 # print(tmp1, "+", tmp2, "+", tmp3, "=", total)
 
-num_1 = int(input("Enter first num: "))
-num_2 = int(input("Enter second num: "))
-Quotient = int(num_1 / num_2)
-print("\nQuotient: ", Quotient)
+# num_1 = int(input("Enter first num: "))
+# num_2 = int(input("Enter second num: "))
+# Quotient = int(num_1 / num_2)
+# print("\nQuotient: ", Quotient)
 
-Remainder = num_1 % num_2
-print("Remainder: ", Remainder)
+# Remainder = num_1 % num_2
+# print("Remainder: ", Remainder)
+
+principle = float(input("Enter the priceple amount: "))
+time = int(input("Enter the time(years): "))
+rate = float(input("Enter the rate: "))
