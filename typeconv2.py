@@ -110,3 +110,5 @@ print(bin(10))
 
 print(int("0b1010", 2))
 print(int("0b1010", 0))
+print(int("0x101", 16))
+print(ord("a"))
