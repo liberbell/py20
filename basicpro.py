@@ -30,9 +30,16 @@
 # Remainder = num_1 % num_2
 # print("Remainder: ", Remainder)
 
-principle = float(input("Enter the priceple amount: "))
-time = int(input("Enter the time(years): "))
-rate = float(input("Enter the rate: "))
+# principle = float(input("Enter the priceple amount: "))
+# time = int(input("Enter the time(years): "))
+# rate = float(input("Enter the rate: "))
 
-simple_int = (principle * time * rate) / 100
-print("The simple interest is: ", simple_int)
+# simple_int = (principle * time * rate) / 100
+# print("The simple interest is: ", simple_int)
+
+cm = int(input("Give the highest in centimeters: "))
+inches = 0.394 * cm
+feet = 0.0324 * cm
+
+print("The length in inches: ", inches)
+print("The length in feet: ", feet)
