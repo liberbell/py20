@@ -14,3 +14,7 @@ first_num = first_num - second_num
 print("\nFirst num is: ", first_num, "\nSecond num is: ", second_num)
 
 num = int(input("Enter a number: "))
+
+tmp1 = str(num)
+tmp2 = tmp1 + tmp1
+tmp3 = tmp1 + tmp1 + tmp1
