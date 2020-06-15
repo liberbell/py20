@@ -37,9 +37,12 @@
 # simple_int = (principle * time * rate) / 100
 # print("The simple interest is: ", simple_int)
 
-cm = int(input("Give the highest in centimeters: "))
-inches = 0.394 * cm
-feet = 0.0324 * cm
+# cm = int(input("Give the highest in centimeters: "))
+# inches = 0.394 * cm
+# feet = 0.0324 * cm
 
-print("The length in inches: ", round(inches, 2))
-print("The length in feet: ", round(feet, 2))
+# print("The length in inches: ", round(inches, 2))
+# print("The length in feet: ", round(feet, 2))
+
+cars_list = ["Toyota Camry", "Honda Accord", "Honda Civic", "Toyota Corolla"]
+print("List of cars before the swap: ", cars_list)
