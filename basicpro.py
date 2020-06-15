@@ -65,3 +65,7 @@ print("List of cars before the swap: ", cars_list)
 list_students = ["Sofia", "Ella", "Samuel", "Ella", "Aiden", "Sofia"]
 print("Student list: ", list_students)
 print("Number of student: ", len(list_students))
+
+student_set = set(list_students)
+print("\nNew student list: ", student_set)
+print("\nNew number of student: ", len(student_set))
