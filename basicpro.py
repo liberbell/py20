@@ -41,5 +41,5 @@ cm = int(input("Give the highest in centimeters: "))
 inches = 0.394 * cm
 feet = 0.0324 * cm
 
-print("The length in inches: ", inches)
-print("The length in feet: ", feet)
+print("The length in inches: ", round(inches, 2))
+print("The length in feet: ", round(feet, 2))
