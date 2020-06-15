@@ -69,3 +69,5 @@ print("Number of student: ", len(list_students))
 student_set = set(list_students)
 print("\nNew student list: ", student_set)
 print("\nNew number of student: ", len(student_set))
+
+print("There are %s duplicate elements.", len(list_students) - len(student_set))
