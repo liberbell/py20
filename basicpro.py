@@ -46,3 +46,7 @@
 
 cars_list = ["Toyota Camry", "Honda Accord", "Honda Civic", "Toyota Corolla"]
 print("List of cars before the swap: ", cars_list)
+
+car_list_temp = cars_list[0]
+cars_list[0] = cars_list[2]
+cars_list[2] = car_list_temp
