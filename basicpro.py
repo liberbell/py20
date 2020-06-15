@@ -61,3 +61,6 @@ car2 = 2
 
 cars_list[car1], cars_list[car2] = cars_list[car2], cars_list[car1]
 print("List of cars before the swap: ", cars_list)
+
+list_students = ["Sofia", "Ella", "Samuel", "Ella", "Aiden", "Sofia"]
+print("Student list: ", list_students)
