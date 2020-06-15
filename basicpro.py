@@ -44,14 +44,14 @@
 # print("The length in inches: ", round(inches, 2))
 # print("The length in feet: ", round(feet, 2))
 
-cars_list = ["Toyota Camry", "Honda Accord", "Honda Civic", "Toyota Corolla"]
-print("List of cars before the swap: ", cars_list)
+# cars_list = ["Toyota Camry", "Honda Accord", "Honda Civic", "Toyota Corolla"]
+# print("List of cars before the swap: ", cars_list)
 
-car_list_temp = cars_list[0]
-cars_list[0] = cars_list[2]
-cars_list[2] = car_list_temp
+# car_list_temp = cars_list[0]
+# cars_list[0] = cars_list[2]
+# cars_list[2] = car_list_temp
 
-print("List of cars after the swap: ", cars_list)
+# print("List of cars after the swap: ", cars_list)
 
 cars_list = ["Toyota Camry", "Honda Accord", "Honda Civic", "Toyota Corolla"]
 print("List of cars before the swap: ", cars_list)
@@ -60,3 +60,4 @@ car1 = 1
 car2 = 2
 
 cars_list[car1], cars_list[car2] = cars_list[car2], cars_list[car1]
+print("List of cars before the swap: ", cars_list)
