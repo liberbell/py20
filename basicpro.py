@@ -59,4 +59,4 @@ print("List of cars before the swap: ", cars_list)
 car1 = 1
 car2 = 2
 
-car_list[car1], cars_list[car2] = cars_list[car2], cars_list[car1]
+cars_list[car1], cars_list[car2] = cars_list[car2], cars_list[car1]
