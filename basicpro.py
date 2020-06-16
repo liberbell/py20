@@ -81,5 +81,10 @@ if len_set_str == len(set(list_str)):
 else:
     print("There are {} duplicate elements.".format(len_set_str - len_list_str))
 
-num_value = 50
+num_value = 51
 print("The number stored in num_value is :", num_value)
+
+if not num_value % 2 == 0:
+    print("The num is an odd number.")
+else:
+    print("The num is an even number.")
