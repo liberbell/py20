@@ -75,3 +75,8 @@ print("There are %s duplicate elements."%(len(list_students) - len(student_set))
 list_str = ["Sofia", "Ella", "Samuel", "Ella", "Aiden", "Sofia"]
 len_list_str = len(list_str)
 len_set_str = len(set(list_str))
+
+if len_set_str = len(set(list_str)):
+    print("There are no duplicate elements.")
+else:
+    print("There are {} duplicate elements.".format(len_set_str - len_list_str))
