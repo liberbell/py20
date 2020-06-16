@@ -88,3 +88,7 @@ if not num_value % 2 == 0:
     print("The num is an odd number.")
 else:
     print("The num is an even number.")
+
+Values = input("Enter some comma separated numbers: ")
+
+list_value = Values.split(",")
