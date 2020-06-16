@@ -92,3 +92,4 @@ else:
 Values = input("Enter some comma separated numbers: ")
 
 list_value = Values.split(",")
+tuple_value = tuple(list_value)
