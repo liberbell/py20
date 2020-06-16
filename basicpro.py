@@ -97,9 +97,13 @@ else:
 # print("List: ", list_value)
 # print("Tuple: ", tuple_value)
 
-list_words = input("Enter some space separated words: ")
+# list_words = input("Enter some space separated words: ")
 
-words = list_words.split(" ")
-new_list_words = sorted(words)
+# words = list_words.split(" ")
+# new_list_words = sorted(words)
 
-print(new_list_words)
+# print(new_list_words)
+
+sentence = input("Enter some whitespace-separated words: ")
+words = sentence.split(" ")
+set_of_words = set(words)
