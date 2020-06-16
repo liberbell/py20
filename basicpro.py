@@ -93,3 +93,6 @@ Values = input("Enter some comma separated numbers: ")
 
 list_value = Values.split(",")
 tuple_value = tuple(list_value)
+
+print("List: ", list_value)
+print("Tuple: ", tuple_value)
