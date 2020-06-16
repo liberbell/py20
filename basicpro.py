@@ -80,3 +80,6 @@ if len_set_str == len(set(list_str)):
     print("There are no duplicate elements.")
 else:
     print("There are {} duplicate elements.".format(len_set_str - len_list_str))
+
+num_value = 50
+print("The number stored in num_value is :", num_value)
