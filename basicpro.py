@@ -89,10 +89,17 @@ if not num_value % 2 == 0:
 else:
     print("The num is an even number.")
 
-Values = input("Enter some comma separated numbers: ")
+# Values = input("Enter some comma separated numbers: ")
 
-list_value = Values.split(",")
-tuple_value = tuple(list_value)
+# list_value = Values.split(",")
+# tuple_value = tuple(list_value)
 
-print("List: ", list_value)
-print("Tuple: ", tuple_value)
+# print("List: ", list_value)
+# print("Tuple: ", tuple_value)
+
+list_words = input("Enter some space separated words: ")
+
+words = list_words.split(" ")
+new_list_words = sorted(words)
+
+print(new_list_words)
