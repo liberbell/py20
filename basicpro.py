@@ -104,11 +104,16 @@ else:
 
 # print(new_list_words)
 
-sentence = input("Enter some whitespace-separated words: ")
-words = sentence.split(" ")
-set_of_words = set(words)
+# sentence = input("Enter some whitespace-separated words: ")
+# words = sentence.split(" ")
+# set_of_words = set(words)
 
-sorted_set_of_words = sorted(set_of_words)
-print(set_of_words)
-print(sorted_set_of_words)
-print(" ".join(sorted_set_of_words))
+# sorted_set_of_words = sorted(set_of_words)
+# print(set_of_words)
+# print(sorted_set_of_words)
+# print(" ".join(sorted_set_of_words))
+
+num_dict = dict()
+
+num_dict[1] = 1
+num_dict[2] = 2 ** 2
