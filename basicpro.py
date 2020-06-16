@@ -107,3 +107,7 @@ else:
 sentence = input("Enter some whitespace-separated words: ")
 words = sentence.split(" ")
 set_of_words = set(words)
+
+sorted_set_of_words = sorted(set_of_words)
+print(set_of_words)
+print(sorted_set_of_words)
