@@ -126,3 +126,6 @@ string_2 = input("Enter second string: ")
 
 set_1 = set(string_1)
 set_2 = set(string_2)
+
+common_char = set_1.intersection(set_2)
+print("\nCommon letters: ", common_char)
