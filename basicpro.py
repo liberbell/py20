@@ -120,3 +120,9 @@ num_dict[2] = 2 ** 2
 num_dict[3] = 3 ** 2
 
 print(num_dict)
+
+string_1 = input("Enter first string: ")
+string_2 = input("Enter second string: ")
+
+set_1 = set(string_1)
+set_2 = set(string_2)
