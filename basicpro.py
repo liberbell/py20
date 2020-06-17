@@ -134,3 +134,4 @@ list_num = [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
 len_of_list = len(list_num)
 
 print("Numbers before slising %s " %list_num)
+print("Length of numbers before slising: ", len_of_list)
