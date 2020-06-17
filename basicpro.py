@@ -139,3 +139,6 @@ print("Length of numbers before slising: ", len_of_list)
 half = int(len_of_list / 2)
 list_num1 = list_num[:half]
 list_num2 = list_num[half:]
+
+print("\nFirst half: %s" %list_num1)
+print("Second half: %s" %list_num2)
