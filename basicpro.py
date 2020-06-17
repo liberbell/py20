@@ -121,11 +121,13 @@ num_dict[3] = 3 ** 2
 
 print(num_dict)
 
-string_1 = input("Enter first string: ")
-string_2 = input("Enter second string: ")
+# string_1 = input("Enter first string: ")
+# string_2 = input("Enter second string: ")
 
-set_1 = set(string_1)
-set_2 = set(string_2)
+# set_1 = set(string_1)
+# set_2 = set(string_2)
 
-common_char = set_1.intersection(set_2)
-print("\nCommon letters: ", common_char)
+# common_char = set_1.intersection(set_2)
+# print("\nCommon letters: ", common_char)
+
+list_num = [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
