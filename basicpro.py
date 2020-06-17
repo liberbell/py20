@@ -143,12 +143,19 @@ list_num2 = list_num[half:]
 print("\nFirst half: %s" %list_num1)
 print("Second half: %s" %list_num2)
 
-num = float(input("Enter a number: "))
+# num = float(input("Enter a number: "))
 
-if num >= 0:
-    if num == 0:
-        print("Zero")
-    else:
-        print("Positive number ", num)
-else:
-    print("Negative number %s" %num)
+# if num >= 0:
+#     if num == 0:
+#         print("Zero")
+#     else:
+#         print("Positive number ", num)
+# else:
+#     print("Negative number %s" %num)
+
+var = 3
+
+if (type(var) == int):
+    print("Type of the variable is Interger.")
+elif (type(var) == float):
+    print("Type of the variable is Float.")
