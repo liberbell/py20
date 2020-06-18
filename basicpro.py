@@ -183,3 +183,5 @@ if num_1 % 5 == 0 and num_1 % 7 == 0:
     print("This number is divisible by both 5 and 7")
 elif num_1 % 5 == 0:
     print("This number is divisible by 5")
+elif num_1 % 7 == 0:
+    print("This number is divisible by 7")
