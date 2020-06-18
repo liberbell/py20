@@ -157,3 +157,9 @@ elif (type(var) == complex):
     print("Type of the variable is Complex.")
 else:
     print("Type of the variable is Unknown.")
+
+num = int(input("Enter a number: "))
+if (num % 2) == 0:
+    print("%d is Even" % num)
+else:
+    print("%d is Odd" % num)
