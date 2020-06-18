@@ -11,3 +11,6 @@
 
 letter = input("Enter a letter of the alphabet: ")
 letter = letter.lower()
+
+if letter in ("a", "i", "u", "e", "o"):
+    print("%s is a vowel." % letter)
