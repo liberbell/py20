@@ -147,7 +147,7 @@ print("Second half: %s" %list_num2)
 # else:
 #     print("Negative number %s" %num)
 
-var = 3.0
+var = -10.1
 
 if (type(var) == int):
     print("Type of the variable is Interger.")
