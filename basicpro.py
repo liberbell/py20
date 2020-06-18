@@ -164,16 +164,20 @@ else:
 # else:
 #     print("%d is Odd" % num)
 
-num1 = float(input("Enter the first number: "))
-operator = input("Operator: ")
-num2 = float(input("Enter the second number: "))
-if operator == "+":
-    print("Addition: ", num1 + num2)
-elif operator == "-":
-    print("Subtraction: ", num1 - num2)
-elif operator == "*":
-    print("Multiplication: ", num1 * num2)
-elif operator == "/":
-    print("Division: ", num1 / num2)
-else:
-    print("This is not a valid operator.")
+# num1 = float(input("Enter the first number: "))
+# operator = input("Operator: ")
+# num2 = float(input("Enter the second number: "))
+# if operator == "+":
+#     print("Addition: ", num1 + num2)
+# elif operator == "-":
+#     print("Subtraction: ", num1 - num2)
+# elif operator == "*":
+#     print("Multiplication: ", num1 * num2)
+# elif operator == "/":
+#     print("Division: ", num1 / num2)
+# else:
+#     print("This is not a valid operator.")
+
+num_1 = int(input("Enter a number: "))
+if num_1 % 5 == 0 and num_1 % 7 == 0:
+    print("This number is divisible by both 5 and 7")
