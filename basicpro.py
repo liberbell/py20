@@ -171,4 +171,9 @@ if operator == "+":
     print("Addition: ", num1 + num2)
 elif operator == "-":
     print("Subtraction: ", num1 - num2)
-elif operator
+elif operator == "*":
+    print("Multiplication: ", num1 * num2)
+elif operator == "/":
+    print("Division: ", num1 / num2)
+else:
+    print("")
