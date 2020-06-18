@@ -14,3 +14,7 @@ letter = letter.lower()
 
 if letter in ('a', 'i', "u", "e", "o"):
     print("%s is a vowel." % letter)
+elif letter == 'y':
+    print("Y is ambiguous. It depends where it is used.")
+else:
+    print("$s is ")
