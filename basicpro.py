@@ -158,8 +158,17 @@ elif (type(var) == complex):
 else:
     print("Type of the variable is Unknown.")
 
-num = int(input("Enter a number: "))
-if (num % 2) == 0:
-    print("%d is Even" % num)
-else:
-    print("%d is Odd" % num)
+# num = int(input("Enter a number: "))
+# if (num % 2) == 0:
+#     print("%d is Even" % num)
+# else:
+#     print("%d is Odd" % num)
+
+num1 = float(input("Enter the first number: "))
+operator = input("Operator")
+num2 = float(input("Enter the second number: "))
+if operator == "+":
+    print("Addition: ", num1 + num2)
+elif operator == "-":
+    print("Subtraction: ", num1 - num2)
+elif operator
