@@ -165,7 +165,7 @@ else:
 #     print("%d is Odd" % num)
 
 num1 = float(input("Enter the first number: "))
-operator = input("Operator: ")s
+operator = input("Operator: ")
 num2 = float(input("Enter the second number: "))
 if operator == "+":
     print("Addition: ", num1 + num2)
