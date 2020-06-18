@@ -185,3 +185,5 @@ elif num_1 % 5 == 0:
     print("This number is divisible by 5")
 elif num_1 % 7 == 0:
     print("This number is divisible by 7")
+else:
+    print("This number is neither divisible by both 5 nor 7")
