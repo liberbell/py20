@@ -17,4 +17,4 @@ if letter in ('a', 'i', "u", "e", "o"):
 elif letter == 'y':
     print("Y is ambiguous. It depends where it is used.")
 else:
-    print("$s is ")
+    print("$s is a consonant." % letter)
