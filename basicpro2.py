@@ -20,3 +20,6 @@
 #     print("$s is a consonant." % letter)
 
 month_name = input("Enter the name of the Month: ")
+
+if month_name == "February":
+    print("No. of days: 28/29 days")
