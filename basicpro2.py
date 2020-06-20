@@ -25,3 +25,4 @@ if month_name == "February":
     print("No. of days: 28/29 days")
 elif month_name in ("April", "June", "September", "November"):
     print("No, of days: 30 days")
+elif month_name in ("January", "March", "May", "July", "August", "October", "December")
