@@ -41,10 +41,12 @@
 # else:
 #     print("\nScalene triangle")
 
-str_value = input("Enter the string: ")
-reversed_str = str_value[::-1]
+# str_value = input("Enter the string: ")
+# reversed_str = str_value[::-1]
 
-if (str_value == reversed_str):
-    print("The string is a palindrome")
-else:
-    print("The string is not a palindrome")
+# if (str_value == reversed_str):
+#     print("The string is a palindrome")
+# else:
+#     print("The string is not a palindrome")
+
+ans = int(input("How many days are there in a leap year? "))
