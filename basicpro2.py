@@ -55,7 +55,7 @@ print("You entered: ", ans)
 if ans == 366:
     print("You have cleared the first level.")
 
-    ans = input("\nWhich month has an extra day in a leap year?").lower()
+    ans = input("\nWhich month has an extra day in a leap year? ").lower()
     if ans == "february" :
         print("You have cleared the test.")
     else:
