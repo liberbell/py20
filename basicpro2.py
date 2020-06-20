@@ -38,3 +38,5 @@ if a == b == c:
     print("Equilateral triangle")
 elif a == b or b == c or c == a:
     print("Isosceles triangle")
+else:
+    print("\nScalene triangle")
