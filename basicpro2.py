@@ -19,13 +19,17 @@
 # else:
 #     print("$s is a consonant." % letter)
 
-month_name = input("Enter the name of the Month: ")
+# month_name = input("Enter the name of the Month: ")
 
-if month_name == "February":
-    print("No. of days: 28/29 days")
-elif month_name in ("April", "June", "September", "November"):
-    print("No, of days: 30 days")
-elif month_name in ("January", "March", "May", "July", "August", "October", "December"):
-    print("No. of days: 31 days")
-else:
-    print("Give a correct month name")
+# if month_name == "February":
+#     print("No. of days: 28/29 days")
+# elif month_name in ("April", "June", "September", "November"):
+#     print("No, of days: 30 days")
+# elif month_name in ("January", "March", "May", "July", "August", "October", "December"):
+#     print("No. of days: 31 days")
+# else:
+#     print("Give a correct month name")
+
+a = int(input("a: "))
+b = int(input("b: "))
+c = int(input("c: "))
