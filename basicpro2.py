@@ -30,13 +30,18 @@
 # else:
 #     print("Give a correct month name")
 
-a = int(input("a: "))
-b = int(input("b: "))
-c = int(input("c: "))
+# a = int(input("a: "))
+# b = int(input("b: "))
+# c = int(input("c: "))
 
-if a == b == c:
-    print("Equilateral triangle")
-elif a == b or b == c or c == a:
-    print("Isosceles triangle")
-else:
-    print("\nScalene triangle")
+# if a == b == c:
+#     print("Equilateral triangle")
+# elif a == b or b == c or c == a:
+#     print("Isosceles triangle")
+# else:
+#     print("\nScalene triangle")
+
+str_value = input("Enter the string: ")
+reversed_str = str_value[::-1]
+
+if (str_value == )
