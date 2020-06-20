@@ -46,3 +46,5 @@ reversed_str = str_value[::-1]
 
 if (str_value == reversed_str):
     print("The string is a palindrome")
+else:
+    print("The string is not a palindrome")
