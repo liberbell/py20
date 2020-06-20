@@ -49,16 +49,18 @@
 # else:
 #     print("The string is not a palindrome")
 
-ans = int(input("How many days are there in a leap year? "))
-print("You entered: ", ans)
+# ans = int(input("How many days are there in a leap year? "))
+# print("You entered: ", ans)
 
-if ans == 366:
-    print("You have cleared the first level.")
+# if ans == 366:
+#     print("You have cleared the first level.")
 
-    ans = input("\nWhich month has an extra day in a leap year? ").lower()
-    if ans == "february" :
-        print("You have cleared the test.")
-    else:
-        print("You have failed the test.")
-else:
-    print("Your answer is wrong. Please try again.")
+#     ans = input("\nWhich month has an extra day in a leap year? ").lower()
+#     if ans == "february" :
+#         print("You have cleared the test.")
+#     else:
+#         print("You have failed the test.")
+# else:
+#     print("Your answer is wrong. Please try again.")
+
+score = int(input("Enter a score: "))
