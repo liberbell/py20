@@ -60,3 +60,5 @@ if ans == 366:
         print("You have cleared the test.")
     else:
         print("You have failed the test.")
+else:
+    print("Your answer is wrong. Please try again.")
