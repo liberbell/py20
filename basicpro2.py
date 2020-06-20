@@ -50,3 +50,9 @@
 #     print("The string is not a palindrome")
 
 ans = int(input("How many days are there in a leap year? "))
+print("You entered: ", ans)
+
+if ans == 366:
+    print("You have cleared the first level.")
+
+    ans = input("\nWhich month has an extra day in a leap year?").lower()
