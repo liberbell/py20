@@ -44,4 +44,5 @@
 str_value = input("Enter the string: ")
 reversed_str = str_value[::-1]
 
-if (str_value == )
+if (str_value == reversed_str):
+    print("The string is a palindrome")
