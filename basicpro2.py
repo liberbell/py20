@@ -64,3 +64,8 @@
 #     print("Your answer is wrong. Please try again.")
 
 score = int(input("Enter a score: "))
+
+if score >= 90:
+    print("A grade")
+elif score >= 80:
+    print("B grade")
