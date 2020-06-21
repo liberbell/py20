@@ -65,4 +65,5 @@
 #     print("Fail")
 
 salary = int(input("Enter annual salary: "))
-if salary >
+years_service = int(input("Enter years of services: "))
+if years_service >= 10:
