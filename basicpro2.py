@@ -70,3 +70,5 @@ if years_service >= 10:
     print("Bonus is: ", .15 * salary)
 elif years_service >= 5 and years_service < 10:
     print("Bonus is: ", .10 * salary)
+else:
+    print("No bonus.")
