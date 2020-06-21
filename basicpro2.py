@@ -68,3 +68,5 @@ salary = int(input("Enter annual salary: "))
 years_service = int(input("Enter years of services: "))
 if years_service >= 10:
     print("Bonus is: ", .15 * salary)
+elif years_service >= 5 and years_service < 10:
+    print("Bonus is: ", .10 * salary)
