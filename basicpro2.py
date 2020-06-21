@@ -49,29 +49,20 @@
 # else:
 #     print("The string is not a palindrome")
 
-# ans = int(input("How many days are there in a leap year? "))
-# print("You entered: ", ans)
+#
 
-# if ans == 366:
-#     print("You have cleared the first level.")
+# score = int(input("Enter a score: "))
 
-#     ans = input("\nWhich month has an extra day in a leap year? ").lower()
-#     if ans == "february" :
-#         print("You have cleared the test.")
-#     else:
-#         print("You have failed the test.")
+# if score >= 90:
+#     print("A grade")
+# elif score >= 80:
+#     print("B grade")
+# elif score >= 70:
+#     print("C grade")
+# elif score >= 50:
+#     print("D grade")
 # else:
-#     print("Your answer is wrong. Please try again.")
+#     print("Fail")
 
-score = int(input("Enter a score: "))
-
-if score >= 90:
-    print("A grade")
-elif score >= 80:
-    print("B grade")
-elif score >= 70:
-    print("C grade")
-elif score >= 50:
-    print("D grade")
-else:
-    print("Fail")
+salary = int(input("Enter annual salary: "))
+if salary >
